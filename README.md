@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cdenamiel
+- 👀 I’m interested in meteotsunami modeling and climate change
+- 🌱 I’m currently learning how to use attractors with kilometer-scale climate models
+- 💞️ I’m looking to collaborate on anything concerning the coastal hazard
+- 📫 How to reach me: cdenami@irb.hr
